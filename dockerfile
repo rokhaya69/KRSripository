@@ -1,6 +1,6 @@
 FROM openjdk:8
 
-ARG JAR_FILE=target/GenieLogicielProjet-0.0.1-SNAPSHOT.jar
+ARG JAR_FILE=target/ProjetGenieLogiciel-0.0.1-SNAPSHOT.jar
 ARG JAR_LIB_FILE=target/lib/
 
 # cd /usr/local/runme
